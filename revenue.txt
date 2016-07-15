@@ -1,0 +1,201 @@
+Date,Name,Make,Payment Type,City,Charge
+06/01/2014,Janene Thakkar,Nissan,Credit,Bloomington,$50.15
+06/01/2014,Mathew Axford,Lexus,Debit,Indianapolis,$80.25
+06/02/2014,Delfina Grunwald,Fiat,Other,Fort Wayne,$181.42
+06/02/2014,Colene Brockett,Hyundai,Cash,Indianapolis,$118.75
+06/02/2014,Autumn Man,Toyota,Other,Columbus,$156.34
+06/02/2014,Pa Rhoten,Fiat,Credit,Fort Wayne,$75.83
+06/02/2014,Katelyn Butterworth,Ford,Credit,Lafayette,$129.77
+06/02/2014,Harriet Ritchie,Toyota,Cash,Muncie,$134.25
+06/02/2014,Judith Elgin,Ford,Credit,Indianapolis,$219.61
+06/03/2014,Javier Ates,Ford,Credit,Fort Wayne,$165.39
+06/03/2014,Jenine Hudec,Toyota,Debit,Indianapolis,$147.19
+06/03/2014,Remona Summerlin,Honda,Credit,Fort Wayne,$147.20
+06/03/2014,Walker Svendsen,Subaru,Credit,Kokomo,$98.32
+06/03/2014,Mozelle Jorgensen,Fiat,Other,Indianapolis,$173.70
+06/03/2014,Shawn Hewlett,Nissan,Debit,Lafayette,$238.39
+06/03/2014,Sheilah Klemm,Nissan,Cash,Indianapolis,$287.81
+06/04/2014,Kellye Schumacher,Hyundai,Credit,Columbus,$150.92
+06/04/2014,Marlys Hilty,Nissan,Debit,Indianapolis,$135.12
+06/04/2014,Marge Mcgavock,Chevrolet,Credit,Bloomington,$73.10
+06/04/2014,Kiyoko Beckwith,Subaru,Credit,Bloomington,$108.53
+06/04/2014,Bonnie Vankleeck,Toyota,Other,Columbus,$154.78
+06/04/2014,Martina Colbert,Suzuki,Other,Bloomington,$185.25
+06/04/2014,Mable Meas,Subaru,Credit,Terre Haute,$226.58
+06/04/2014,Arletha Cazarez,Fiat,Credit,Lafayette,$237.60
+06/05/2014,Bell Emery,Suzuki,Debit,Kokomo,$70.86
+06/05/2014,Brock Deckman,Nissan,Debit,Lafayette,$140.33
+06/05/2014,Velia Mcdougle,Ford,Other,Bloomington,$88.33
+06/05/2014,Irving Laliberte,Toyota,Credit,Lafayette,$203.41
+06/05/2014,Celeste Lacroix,Ford,Cash,Indianapolis,$661.2
+06/06/2014,Levi Melius,Lexus,Credit,Fort Wayne,$190.46
+06/06/2014,Elbert Reach,Honda,Cash,Columbus,$98.37
+06/06/2014,Evelin Arnot,Fiat,Credit,Kokomo,$113.40
+06/06/2014,Florinda Bhatt,Suzuki,Other,Indianapolis,$147.38
+06/06/2014,Arden Esser,Hyundai,Credit,Indianapolis,$150.38
+06/06/2014,Jess Dubuisson,Fiat,Credit,Lafayette,$154.95
+06/06/2014,Maud Cirillo,Toyota,Credit,Fort Wayne,$150.99
+06/06/2014,Eleonor Sylvester,Chevrolet,Other,Fort Wayne,$170.14
+06/06/2014,Shanti Dowling,Chevrolet,Credit,Fort Wayne,$58.54
+06/06/2014,Collen Rhymer,Toyota,Other,Lafayette,$222.5
+06/06/2014,Joannie Albro,Subaru,Credit,Lafayette,$673.25
+06/06/2014,Haley Aziz,Chevrolet,Cash,Indianapolis,$451.30
+06/07/2014,Kamala Sliter,Toyota,Credit,Fort Wayne,$89.76
+06/07/2014,Leah Rohde,Chevrolet,Debit,Indianapolis,$259.20
+06/07/2014,Lili Bohon,Fiat,Credit,Indianapolis,$111.3
+06/07/2014,Lashawna Stoneman,Suzuki,Other,Indianapolis,$124.57
+06/07/2014,Alyssa Varela,Ford,Debit,Indianapolis,$130.3
+06/07/2014,Pasquale Rumery,Subaru,Cash,Indianapolis,$103.78
+06/07/2014,Arlean Strahan,Lexus,Cash,Lafayette,$471.66
+06/07/2014,Pearlie Damiani,Lexus,Debit,Terre Haute,$666.54
+06/08/2014,Analisa Schamber,Ford,Credit,Terre Haute,$602.27
+06/08/2014,Shona Pollard,Subaru,Credit,Fort Wayne,$99.78
+06/08/2014,Julene Duron,Nissan,Credit,Kokomo,$131.45
+06/08/2014,Hester Stanford,Ford,Credit,Muncie,$121.54
+06/08/2014,Maren Beauford,Suzuki,Cash,Indianapolis,$131.41
+06/08/2014,Adeline Haugland,Chevrolet,Cash,Lafayette,$117.36
+06/08/2014,Deidre Bonetti,Lexus,Credit,Lafayette,$244.68
+06/08/2014,Francis Smiddy,Nissan,Other,Fort Wayne,$68.43
+06/08/2014,Raymond Snapp,Nissan,Credit,Muncie,$692.37
+06/09/2014,Rudolf Dyer,Suzuki,Debit,Indianapolis,$145.99
+06/09/2014,Elwanda Timmerman,Lexus,Cash,Indianapolis,$586.49
+06/09/2014,Wilhemina Agosto,Lexus,Credit,Fort Wayne,$138.30
+06/09/2014,Sophie Stille,Ford,Credit,Indianapolis,$121.96
+06/09/2014,Treva Holtman,Subaru,Credit,Indianapolis,$162.46
+06/09/2014,Federico Bainbridge,Lexus,Cash,Lafayette,$102.77
+06/09/2014,Jacqualine Denner,Lexus,Credit,Fort Wayne,$159.57
+06/09/2014,Jenifer Grier,Ford,Debit,Kokomo,$650.53
+06/09/2014,Desirae Camacho,Fiat,Credit,Kokomo,$428.87
+06/10/2014,Kamala Laino,Hyundai,Credit,Fort Wayne,$135.85
+06/10/2014,Vanesa Gundlach,Ford,Credit,Indianapolis,$57.19
+06/10/2014,Tonita Seymore,Lexus,Credit,Lafayette,$60.46
+06/10/2014,Deshawn Lester,Suzuki,Credit,Fort Wayne,$123.20
+06/10/2014,Mario Hopple,Nissan,Debit,Muncie,$104.69
+06/10/2014,Kathlyn Pilling,Honda,Credit,Lafayette,$182.29
+06/10/2014,Sook Holliman,Toyota,Cash,Fort Wayne,$677.20
+06/11/2014,Beverlee Wiltse,Ford,Debit,Lafayette,$125.70
+06/11/2014,Ivy Olsson,Ford,Credit,Indianapolis,$47.38
+06/11/2014,Fleta Right,Honda,Credit,Bloomington,$704.25
+06/11/2014,Pasty Puig,Suzuki,Credit,Muncie,$278.26
+06/11/2014,Kyong Darrow,Lexus,Credit,Indianapolis,$685.15
+06/12/2014,Sierra Perl,Suzuki,Credit,Indianapolis,$81.53
+06/12/2014,Vida Keene,Toyota,Credit,Kokomo,$202.79
+06/12/2014,Cristina Husband,Chevrolet,Credit,Bloomington,$287.86
+06/12/2014,Valery Shinn,Suzuki,Credit,Fort Wayne,$215.30
+06/12/2014,Adrien Mach,Chevrolet,Credit,Indianapolis,$330.65
+06/13/2014,Yun Fu,Honda,Cash,Fort Wayne,$155.1
+06/13/2014,Mozella Prall,Subaru,Cash,Indianapolis,$67.46
+06/13/2014,Latesha Mcallister,Hyundai,Other,Fort Wayne,$109.60
+06/13/2014,Jamison Navarre,Subaru,Other,Muncie,$59.95
+06/13/2014,Mariel Bump,Suzuki,Credit,Kokomo,$193.12
+06/13/2014,Marilyn Sweatt,Suzuki,Credit,Kokomo,$687.97
+06/14/2014,Aldo Dileo,Honda,Credit,Lafayette,$100.41
+06/14/2014,Erminia Hutchens,Hyundai,Credit,Indianapolis,$73.4
+06/14/2014,Scottie Jowers,Fiat,Debit,Indianapolis,$164.83
+06/14/2014,Larraine Streiff,Lexus,Other,Lafayette,$262.66
+06/14/2014,Hayley Chesnutt,Nissan,Credit,Indianapolis,$76.9
+06/14/2014,Pearly Nazzaro,Toyota,Credit,Indianapolis,$237.63
+06/14/2014,Yelena Vitolo,Fiat,Debit,Fort Wayne,$167.3
+06/15/2014,Shaunte Andry,Toyota,Cash,Lafayette,$144.51
+06/15/2014,Florida Goffney,Chevrolet,Other,Muncie,$105.91
+06/15/2014,Denver Hay,Honda,Other,Indianapolis,$129.10
+06/15/2014,Lakenya Mcbrayer,Lexus,Credit,Lafayette,$162.42
+06/15/2014,Felice Grajales,Chevrolet,Credit,Indianapolis,$149.92
+06/15/2014,Rufus Kadel,Lexus,Credit,Fort Wayne,$139.52
+06/15/2014,Bianca Kreiner,Chevrolet,Credit,Lafayette,$552.95
+06/16/2014,Twana Huebner,Hyundai,Other,Kokomo,$74.40
+06/16/2014,Taisha Wortman,Suzuki,Cash,Fort Wayne,$138.83
+06/16/2014,Rosann Turnage,Lexus,Debit,Indianapolis,$600.49
+06/17/2014,Sarai Sharpton,Toyota,Other,Indianapolis,$123.89
+06/17/2014,Dimple Moxley,Ford,Credit,Fort Wayne,$67.15
+06/17/2014,Dora Hubbell,Ford,Credit,Bloomington,$114.25
+06/17/2014,Hermelinda Detty,Fiat,Debit,Indianapolis,$550.57
+06/17/2014,Frank Cappiello,Suzuki,Credit,Indianapolis,$345.32
+06/18/2014,Tabitha Pell,Honda,Credit,Fort Wayne,$131.47
+06/18/2014,Edwina Eilerman,Hyundai,Other,Indianapolis,$106.11
+06/18/2014,Alphonse Julien,Subaru,Credit,Indianapolis,$154.60
+06/18/2014,Harriette Siegrist,Subaru,Credit,Fort Wayne,$158.30
+06/18/2014,Carin Berggren,Honda,Debit,Lafayette,$65.27
+06/18/2014,Thaddeus Chewning,Honda,Other,Bloomington,$518.85
+06/18/2014,Gertrudis Gregori,Chevrolet,Debit,Fort Wayne,$183.7
+06/19/2014,Mina Burkitt,Lexus,Other,Indianapolis,$132.86
+06/19/2014,Martin Kriss,Fiat,Credit,Fort Wayne,$72.4
+06/19/2014,Ardith Stubbe,Subaru,Credit,Fort Wayne,$209.14
+06/19/2014,Bethanie Marchand,Chevrolet,Credit,Bloomington,$55.34
+06/19/2014,Letty Brophy,Subaru,Debit,Fort Wayne,$82.49
+06/19/2014,Belen Roberds,Hyundai,Other,Bloomington,$611.92
+06/19/2014,Rolando Hesser,Lexus,Credit,Fort Wayne,$661.47
+06/19/2014,Beatriz Broe,Lexus,Cash,Indianapolis,$646.33
+06/19/2014,Dalia Alvarado,Suzuki,Debit,Indianapolis,$333.77
+06/19/2014,Leonardo Beckford,Ford,Debit,Indianapolis,$545.96
+06/20/2014,Jenee Bethea,Honda,Credit,Lafayette,$108.10
+06/20/2014,Esperanza Basham,Honda,Credit,Fort Wayne,$166.51
+06/20/2014,Coleen Pagaduan,Suzuki,Credit,Kokomo,$262.26
+06/20/2014,Toshia Schuck,Toyota,Credit,Indianapolis,$310.65
+06/20/2014,Margherita Hoppe,Chevrolet,Credit,Fort Wayne,$664.92
+06/20/2014,Maisha Velasques,Lexus,Credit,Fort Wayne,$375.84
+06/21/2014,Dewey Sutcliffe,Nissan,Credit,Fort Wayne,$82.25
+06/21/2014,Charity Parrilla,Lexus,Credit,Bloomington,$143.84
+06/21/2014,Isis Beam,Hyundai,Credit,Indianapolis,$225.12
+06/21/2014,Loris Avants,Ford,Credit,Lafayette,$218.28
+06/22/2014,Greg Desai,Suzuki,Credit,Indianapolis,$74.84
+06/22/2014,Laurette Tomberlin,Suzuki,Other,Kokomo,$63.8
+06/22/2014,Machelle Adkins,Nissan,Cash,Indianapolis,$126.91
+06/22/2014,Lorriane Mcminn,Honda,Credit,Indianapolis,$148.62
+06/22/2014,Le Boise,Nissan,Credit,Fort Wayne,$135.52
+06/22/2014,Lisha Millan,Fiat,Credit,Bloomington,$127.5
+06/22/2014,Porfirio Hathcock,Suzuki,Credit,Terre Haute,$103.54
+06/22/2014,Debra Cichon,Subaru,Credit,Indianapolis,$97.31
+06/22/2014,Madalyn Reta,Lexus,Cash,Terre Haute,$88.61
+06/22/2014,Wendolyn Morison,Nissan,Credit,Fort Wayne,$142.60
+06/22/2014,Bradford Halsey,Chevrolet,Credit,Lafayette,$173.65
+06/22/2014,Winifred Yamashita,Chevrolet,Credit,Kokomo,$365.20
+06/23/2014,Myung Groh,Lexus,Debit,Bloomington,$60.58
+06/23/2014,Donita Dupuis,Nissan,Credit,Bloomington,$167.40
+06/23/2014,Nova Braggs,Lexus,Other,Indianapolis,$231.94
+06/23/2014,Lynna Claus,Fiat,Credit,Indianapolis,$61.38
+06/23/2014,Norine Galang,Suzuki,Credit,Fort Wayne,$675.0
+06/23/2014,Theresia Higginbotham,Hyundai,Other,Muncie,$199.52
+06/24/2014,Alecia Hearst,Hyundai,Credit,Fort Wayne,$71.98
+06/24/2014,Kory Palomba,Fiat,Credit,Fort Wayne,$72.58
+06/24/2014,Vella Mattern,Subaru,Debit,Indianapolis,$77.48
+06/24/2014,Sumiko Berkley,Subaru,Credit,Indianapolis,$164.57
+06/24/2014,Sarai Dingus,Fiat,Credit,Kokomo,$127.60
+06/24/2014,Aleta Borchers,Fiat,Debit,Lafayette,$263.32
+06/24/2014,Temika Marez,Lexus,Credit,Fort Wayne,$54.1
+06/24/2014,Madaline Heisler,Honda,Credit,Indianapolis,$216.69
+06/24/2014,Melaine Redrick,Lexus,Credit,Fort Wayne,$628.63
+06/24/2014,Tanner Lawler,Ford,Cash,Indianapolis,$334.45
+06/25/2014,Ardell Shand,Nissan,Other,Muncie,$119.40
+06/25/2014,Noble Redden,Suzuki,Cash,Indianapolis,$78.66
+06/25/2014,Johnette Tibbetts,Toyota,Debit,Indianapolis,$54.35
+06/25/2014,Terry Claytor,Honda,Credit,Indianapolis,$180.54
+06/26/2014,Jackqueline Claywell,Suzuki,Other,Fort Wayne,$95.11
+06/26/2014,Oretha Mcray,Toyota,Other,Kokomo,$117.98
+06/26/2014,Shakia Arocho,Chevrolet,Credit,Muncie,$133.54
+06/26/2014,Garnett Slaven,Toyota,Other,Indianapolis,$90.84
+06/26/2014,Bettie Salvatore,Suzuki,Credit,Fort Wayne,$166.18
+06/26/2014,Dodie Brain,Fiat,Credit,Indianapolis,$149.23
+06/26/2014,Lisabeth Moreau,Subaru,Debit,Bloomington,$117.71
+06/26/2014,Amiee Brasier,Hyundai,Credit,Fort Wayne,$49.83
+06/26/2014,Tameka Banta,Lexus,Credit,Muncie,$187.13
+06/26/2014,Etsuko Circle,Lexus,Other,Indianapolis,$57.30
+06/26/2014,Zina Below,Hyundai,Cash,Muncie,$706.88
+06/26/2014,Eliza Bousquet,Lexus,Credit,Indianapolis,$561.41
+06/27/2014,Reta Boeding,Chevrolet,Other,Fort Wayne,$47.51
+06/27/2014,Janette Sonntag,Toyota,Credit,Fort Wayne,$106.73
+06/27/2014,Laurinda Santamaria,Chevrolet,Other,Indianapolis,$70.94
+06/27/2014,Philip Colmenero,Fiat,Cash,Terre Haute,$186.58
+06/27/2014,Reita Quattlebaum,Fiat,Credit,Fort Wayne,$545.68
+06/27/2014,Lewis Grissom,Hyundai,Credit,Fort Wayne,$682.85
+06/28/2014,Naida Bridgers,Ford,Credit,Columbus,$162.88
+06/28/2014,Kemberly Murden,Ford,Other,Indianapolis,$87.84
+06/28/2014,Oscar Carvalho,Ford,Credit,Terre Haute,$122.37
+06/28/2014,Helena Hennigan,Honda,Credit,Bloomington,$128.14
+06/28/2014,Colby Valenzula,Honda,Other,Fort Wayne,$64.31
+06/28/2014,Ayako Xu,Honda,Credit,Bloomington,$284.62
+06/29/2014,Garth Francoeur,Fiat,Credit,Fort Wayne,$147.57
+06/29/2014,Katie Jeter,Subaru,Credit,Indianapolis,$54.34
+06/29/2014,Susann Chennault,Lexus,Credit,Columbus,$58.50
+06/29/2014,Santos Hennessy,Subaru,Credit,Fort Wayne,$110.28
+06/30/2014,Alethea Soriano,Subaru,Cash,Indianapolis,$648.70
